@@ -1,3 +1,1 @@
 p 'hoge'
-
-p 'hogehoge'
