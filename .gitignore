@@ -7,5 +7,6 @@ RemoteSystemsTempFiles/
 .settings/
 bin/
 *.class
+*.jar
 .project
 .classpath
