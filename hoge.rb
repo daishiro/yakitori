@@ -7,5 +7,3 @@ p 'hogehoge3'
 p 'hogehoge4'
 
 p 'hogehoge5'
-
-p 'hogehoge6'
