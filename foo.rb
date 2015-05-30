@@ -1,4 +1,4 @@
-p 'foo'
+p 'foo1'
 
 p 'foo2'
 
@@ -8,8 +8,3 @@ p 'foo4'
 
 p 'foo5'
 
-p 'foo6'
-
-p 'foo7'
-
-p 'foo8'
