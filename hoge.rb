@@ -8,7 +8,4 @@ p 'hogehoge4'
 
 p 'hogehoge5'
 
-p 'hogehoge6'
-
-p 'hogehoge7'
-
+p 'hogehoge6-1'
